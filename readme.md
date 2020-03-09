@@ -4,8 +4,11 @@ API for food nutrition project
 
 ## Installation
 1. download project
-2. dependencies are listed in requirements.txt
-3. run manage.py
+2. create venv
+3. enter venv
+4. pip install -r requirements.txt
+5. run manage.py
+
 ## Usage
 use the **/api/v1/foods** endpoint.
 
@@ -20,14 +23,15 @@ use the **/api/v1/foods** endpoint.
 * Add exception handling
 * Cover more edge cases
 * Actually make a database
+* add access token
+* etc
 
 ## Contributing
 
 Feel free to do what you want with this
 
 ## Authors and acknowledgement
-Big thanks to me for creating and contributing to this project.
-I acknowledge God for enabling me.
+Big thanks to big I am
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
